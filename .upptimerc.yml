@@ -16,9 +16,10 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/ps-jan/upptime/refs/heads/master/assets/inprod-logo.png
+  favicon: https://raw.githubusercontent.com/ps-jan/upptime/refs/heads/master/assets/inprod-logo.png
   name: InProd
   introTitle: "**InProd Upptime**"
-  introMessage: This page tracks the uptime of InProd's website and services. 
+  introMessage: This page tracks the uptime of InProd's website and application. 
   navbar:
     - title: Status
       href: /
