@@ -1,5 +1,5 @@
 # Change these first
-owner: ps-jan # Your GitHub organization or username, where this repository lives
+owner: inprod # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -15,8 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/ps-jan/upptime/refs/heads/master/assets/inprod-logo.png
-  favicon: https://raw.githubusercontent.com/ps-jan/upptime/refs/heads/master/assets/inprod-logo.png
+  logoUrl: https://raw.githubusercontent.com/inprod/upptime/refs/heads/master/assets/inprod-logo.png
+  favicon: https://raw.githubusercontent.com/inprod/upptime/refs/heads/master/assets/inprod-logo.png
   name: InProd
   introTitle: "**InProd Upptime**"
   introMessage: This page tracks the uptime of InProd's website and application. 
